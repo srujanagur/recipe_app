@@ -1,0 +1,23 @@
+.eachrecipedetails {
+  margin: 2rem;
+}
+.linkstyle {
+  color: var(--primary-link);
+}
+
+.details {
+  border: 2px solid #139487;
+  border-radius: 20px;
+  padding: 5px;
+  margin-left: 5rem;
+  color: var(--primary-text);
+  background-color: var(--primary-bg);
+}
+.img1 {
+  margin-left: 5rem;
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}

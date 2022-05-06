@@ -1,0 +1,19 @@
+.mainnavbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--primary-bg);
+}
+.sun {
+  color: var(--secondary-text);
+}
+.navButtons {
+  padding: 3px;
+  text-decoration: none;
+  color: var(--secondary-text);
+}
+.navButtons:hover {
+  border: 2px solid #caf0f8;
+  border-radius: 20px;
+  color: blue;
+  background-color: #caf0f8;
+}

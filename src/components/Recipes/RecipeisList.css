@@ -1,0 +1,38 @@
+.recipelist {
+  display: flex;
+  flex-wrap: wrap;
+
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: 3rem;
+  color: var(--primary-text);
+  background-color: var(--primary-bg);
+}
+.each {
+  margin: 1rem;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: var(--secondary-bg);
+}
+
+.heart {
+  color: var(--primary-text);
+}
+.recipelistimage {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+.cartbtn {
+  margin-left: 2rem;
+}
+.carouselimage {
+  margin-left: 25rem;
+  width: 300px;
+  height: 200px;
+  border-radius: 20px;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}

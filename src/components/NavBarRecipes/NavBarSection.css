@@ -1,0 +1,10 @@
+.navbarsection {
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.navbarsectionlist {
+  padding-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,18 @@
+.home {
+  background-image: url("./img1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
+#logo {
+  animation: logo 2s infinite;
+}
+@keyframes logo {
+  0% {
+    transform: scale(0, 0);
+  }
+  100% {
+    transform: scale(0.7, 0.7);
+  }
+}

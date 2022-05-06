@@ -1,0 +1,17 @@
+.myfavorite {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 3rem;
+  border: 2px solid black;
+  border-radius: 20px;
+
+  color: var(--primary-text);
+  background-color: var(--primary-bg);
+}
+.myfavoriteeach {
+  margin: 2rem;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: var(--secondary-bg);
+}
